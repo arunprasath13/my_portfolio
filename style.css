@@ -189,3 +189,20 @@ body{
         width:0;
     }
 }
+
+@media (max-width:1000px){
+    .navbar a{
+        display: none;
+    }
+    .header{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+
+    .menu{
+         font-size:40px;
+         cursor: pointer;
+    } 
+}

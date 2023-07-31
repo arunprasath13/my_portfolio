@@ -182,6 +182,10 @@ body{
     border:2px solid black;
 } */
 
+.menu{
+     display: none;
+}
+
 
 
 @keyframes showRight {
